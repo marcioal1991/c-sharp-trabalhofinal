@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Products>
+<Product>
+<Product_id>1</Product_id>
+<Product_name>Camiseta</Product_name>
+<Product_price>100.0</Product_price>
+</Product>
+<Product>
+<Product_id>2</Product_id>
+<Product_name>Calça</Product_name>
+<Product_price>120.00</Product_price>
+</Product>
+<Product>
+<Product_id>3</Product_id>
+<Product_name>Tênis</Product_name>
+<Product_price>250.00</Product_price>
+</Product>
+<Product>
+<Product_id>4</Product_id>
+<Product_name>Camisa</Product_name>
+<Product_price>80.00</Product_price>
+</Product>
+</Products>

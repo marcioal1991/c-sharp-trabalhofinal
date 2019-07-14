@@ -1,0 +1,11 @@
+/home/marcioal1991/Documents/TrabalhoFinal/bin/Debug/netcoreapp2.2/TrabalhoFinal.deps.json
+/home/marcioal1991/Documents/TrabalhoFinal/bin/Debug/netcoreapp2.2/TrabalhoFinal.runtimeconfig.json
+/home/marcioal1991/Documents/TrabalhoFinal/bin/Debug/netcoreapp2.2/TrabalhoFinal.runtimeconfig.dev.json
+/home/marcioal1991/Documents/TrabalhoFinal/bin/Debug/netcoreapp2.2/TrabalhoFinal.dll
+/home/marcioal1991/Documents/TrabalhoFinal/bin/Debug/netcoreapp2.2/TrabalhoFinal.pdb
+/home/marcioal1991/Documents/TrabalhoFinal/obj/Debug/netcoreapp2.2/TrabalhoFinal.csprojAssemblyReference.cache
+/home/marcioal1991/Documents/TrabalhoFinal/obj/Debug/netcoreapp2.2/TrabalhoFinal.csproj.CoreCompileInputs.cache
+/home/marcioal1991/Documents/TrabalhoFinal/obj/Debug/netcoreapp2.2/TrabalhoFinal.AssemblyInfoInputs.cache
+/home/marcioal1991/Documents/TrabalhoFinal/obj/Debug/netcoreapp2.2/TrabalhoFinal.AssemblyInfo.cs
+/home/marcioal1991/Documents/TrabalhoFinal/obj/Debug/netcoreapp2.2/TrabalhoFinal.dll
+/home/marcioal1991/Documents/TrabalhoFinal/obj/Debug/netcoreapp2.2/TrabalhoFinal.pdb
